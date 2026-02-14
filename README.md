@@ -1,4 +1,4 @@
-![Status: Work in Progress](https://img.shields.io/badge/status-work--in--progress-orange)
+![Status: Work in Progress, Some fetures may not work.](https://img.shields.io/badge/status-work--in--progress-orange)
 
 # Workbench
 
