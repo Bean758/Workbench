@@ -54,4 +54,6 @@ You can also Import .adev to edit existing device files.
   "display": { "type": "oled_ssd1306", "region": { "x": 10, "y": 10, "w": 80, "h": 40 } }
 }
 
+
+# Note: This is a Beta relece and some fetures may not work as expected. 
 **License**: GPLv3
